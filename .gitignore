@@ -1,0 +1,8 @@
+# Python junk files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
